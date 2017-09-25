@@ -5,6 +5,22 @@
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C1E1A30B1F78AA0200149A5F"
+               BuildableName = "masonry&#x81ea;&#x9002;&#x5e94;&#x9ad8;&#x5ea6;.app"
+               BlueprintName = "masonry&#x81ea;&#x9002;&#x5e94;&#x9ad8;&#x5ea6;"
+               ReferencedContainer = "container:masonry&#x81ea;&#x9002;&#x5e94;&#x9ad8;&#x5ea6;.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
    </BuildAction>
    <TestAction
       buildConfiguration = "Debug"
@@ -12,7 +28,36 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C1E1A3241F78AA0200149A5F"
+               BuildableName = "masonry&#x81ea;&#x9002;&#x5e94;&#x9ad8;&#x5ea6;Tests.xctest"
+               BlueprintName = "masonry&#x81ea;&#x9002;&#x5e94;&#x9ad8;&#x5ea6;Tests"
+               ReferencedContainer = "container:masonry&#x81ea;&#x9002;&#x5e94;&#x9ad8;&#x5ea6;.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C1E1A32F1F78AA0200149A5F"
+               BuildableName = "masonry&#x81ea;&#x9002;&#x5e94;&#x9ad8;&#x5ea6;UITests.xctest"
+               BlueprintName = "masonry&#x81ea;&#x9002;&#x5e94;&#x9ad8;&#x5ea6;UITests"
+               ReferencedContainer = "container:masonry&#x81ea;&#x9002;&#x5e94;&#x9ad8;&#x5ea6;.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "C1E1A30B1F78AA0200149A5F"
+            BuildableName = "masonry&#x81ea;&#x9002;&#x5e94;&#x9ad8;&#x5ea6;.app"
+            BlueprintName = "masonry&#x81ea;&#x9002;&#x5e94;&#x9ad8;&#x5ea6;"
+            ReferencedContainer = "container:masonry&#x81ea;&#x9002;&#x5e94;&#x9ad8;&#x5ea6;.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -26,6 +71,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "C1E1A30B1F78AA0200149A5F"
+            BuildableName = "masonry&#x81ea;&#x9002;&#x5e94;&#x9ad8;&#x5ea6;.app"
+            BlueprintName = "masonry&#x81ea;&#x9002;&#x5e94;&#x9ad8;&#x5ea6;"
+            ReferencedContainer = "container:masonry&#x81ea;&#x9002;&#x5e94;&#x9ad8;&#x5ea6;.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -35,6 +90,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "C1E1A30B1F78AA0200149A5F"
+            BuildableName = "masonry&#x81ea;&#x9002;&#x5e94;&#x9ad8;&#x5ea6;.app"
+            BlueprintName = "masonry&#x81ea;&#x9002;&#x5e94;&#x9ad8;&#x5ea6;"
+            ReferencedContainer = "container:masonry&#x81ea;&#x9002;&#x5e94;&#x9ad8;&#x5ea6;.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
